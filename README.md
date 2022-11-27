@@ -8,7 +8,7 @@ Team Win Recovery Project Device tree for Lenovo Tab 3 7(TB3-710I)
 #Bugs
 ###########
 >Touch Screen is not working(can use via usb otg)
->you tell me
+you tell me
 ###########
 
 #created by sreeranj@2022
