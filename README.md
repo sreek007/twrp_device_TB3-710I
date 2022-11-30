@@ -9,20 +9,32 @@ Team Win Recovery Project Device tree for Lenovo Tab 3 7(TB3-710I)
 
 
 <br/>
-**Specifications**
+__Specifications__<br/>
 ....................
+<br/>
+<br/>
+*Technology: 	GSM / HSPA / LTE<br/>
+<br/>
+*Announced: 	2016, February. Released 2016, April<br/>
+<br/>
+*Resolution: 	600 x 1024 pixels, 16:9 ratio (~170 ppi density)<br/>
+<br/>
+*Chipset: 	Mediatek MT6580<br/>
+<br/>
+*CPU: 	Quad-core 1.3 GHz Cortex-A53<br/>
+<br/>
+*GPU: 	Mali-T720MP2<br/>
+<br/>
+*Internal: 	8GB 1GB RAM, 16GB 1GB RAM<br/>
+<br/>
+*Camera: 	2 MP, AF or 5 MP, AF<br/>
+<br/>
+*Battery: Li-Ion 3450 mAh, non-removable	<br/>
+<br/>
 
-Technology: 	GSM / HSPA / LTE
-Announced: 	2016, February. Released 2016, April
-Resolution: 	600 x 1024 pixels, 16:9 ratio (~170 ppi density)
-Chipset: 	Mediatek MT6580 (28 nm)
-CPU: 	Quad-core 1.3 GHz Cortex-A53
-GPU: 	Mali-T720MP2
-Internal: 	8GB 1GB RAM, 16GB 1GB RAM
-Camera: 	2 MP, AF or 5 MP, AF
-Battery: Li-Ion 3450 mAh, non-removable	
 
-
-
+<br/>
+<br/>
+<br/>
 
 **created by sreeranj@2022**
