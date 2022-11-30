@@ -50,10 +50,7 @@ TARGET_USERIMAGES_USE_EXT4 := true
 # RECOVERY
 TARGET_RECOVERY_FSTAB := device/lenovo/TB3-710I/recovery/root/twrp.fstab
 
-# PARTTIONS
-# We need the partitions size in decimal
-# Use cat proc/partitions via adb, then block size * 1024
-# This is the partitions of Infinix ROM, system size is bigger than Android One ROM
+# PARTITIONS
 BOARD_RECOVERYIMAGE_PARTITION_SIZE := 16777216
 BOARD_SYSTEMIMAGE_PARTITION_SIZE := 1949696
 BOARD_USERDATAIMAGE_PARTITION_SIZE := 12867072
