@@ -9,7 +9,7 @@ Team Win Recovery Project Device tree for Lenovo Tab 3 7(TB3-710I)
 
 
 <br/>
-__Specifications__<br/>
+Specifications<br/>
 ....................
 <br/>
 <br/>
