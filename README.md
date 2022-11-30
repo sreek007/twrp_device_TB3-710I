@@ -9,8 +9,8 @@ Team Win Recovery Project Device tree for Lenovo Tab 3 7(TB3-710I)
 
 
 <br/>
-Specifications<br/>
-....................
+Device Specifications<br/>
+-----------------------------------
 <br/>
 <br/>
 *Technology: 	GSM / HSPA / LTE<br/>
