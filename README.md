@@ -21,9 +21,9 @@ Device Specifications<br/>
 <br/>
 *Chipset: 	Mediatek MT6580<br/>
 <br/>
-*CPU: 	Quad-core 1.3 GHz Cortex-A53<br/>
+*CPU: 	Quad core (1.3 GHz, 4 * ARM Cortex-A7 @1.3 GHz 32-bit)<br/>
 <br/>
-*GPU: 	Mali-T720MP2<br/>
+*GPU: 	Mali-400 MP<br/>
 <br/>
 *Internal: 	8GB 1GB RAM, 16GB 1GB RAM<br/>
 <br/>
