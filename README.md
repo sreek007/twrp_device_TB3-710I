@@ -17,7 +17,7 @@ Device Specifications<br/>
 <br/>
 *Announced: 	2016, February. Released 2016, April<br/>
 <br/>
-*Resolution: 	600 x 1024 pixels, 16:9 ratio (~170 ppi density)<br/>
+*Resolution: 	600 x 1024 pixels, 16:9 ratio (~160 ppi density)<br/>
 <br/>
 *Chipset: 	Mediatek MT6580<br/>
 <br/>
